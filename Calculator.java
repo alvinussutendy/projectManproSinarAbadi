@@ -8,8 +8,4 @@ public class Calculator{
 		
 	}
 	
-	public void minus(float x,float y){
-		
-		
-	}
 }
